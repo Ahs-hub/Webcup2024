@@ -1,0 +1,21 @@
+/* Google Fonts - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+*{
+  padding:0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing:border-box;
+  color:rgb(219, 219, 219);
+}
+body{
+  background:linear-gradient(
+   to right,
+   #0E101A,
+   #7B8494
+   );
+}
+.hidden{
+  display:none !important; 
+  
+}
